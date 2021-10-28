@@ -9,11 +9,11 @@ Welcome to Umair Hussain's peronal page!
 ![Umair Hussain](/images/title-logo1.jpg)
 
 ## Educational Background
-**Direct PhD (Started in 2019):** at Indian Institute of Technology Madras, Chennai
+**Direct PhD (Started in 2019):** at [Indian Institute of Technology Madras, Chennai](https://mech.iitm.ac.in/meiitm/)
 
-**Bachelor of Technology in Mechanical Engineering (2015):** *passed with 9.66 CPI* from Jamia Millia Islamia, New Delhi
+**Bachelor of Technology in Mechanical Engineering (2015):** *passed with 9.66 CPI* from [Jamia Millia Islamia, New Delhi](https://www.jmi.ac.in/mechanical)
 
-**Intermediate (2015):** *passed with 88.4% of marks* from Senior Secondary School (Boys), AMU, Aligarh
+**Intermediate (2015):** *passed with 88.4% of marks* from [Senior Secondary School (Boys), AMU, Aligarh](https://www.amu.ac.in/schools/saiyyid-hamid-senior-secondary-school-boys/home-page)
 
 **High School (2013):** *passed with 10 CGPA* from Bishop Conrad Senior Secondary School, Bareilly (CBSE Board)
 
