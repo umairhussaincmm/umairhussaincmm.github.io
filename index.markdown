@@ -10,3 +10,5 @@ Welcome to Umair Hussain's peronal page!
 
 ## Educational Background
 **High School (2013):** *passed with 10 CGPA* from Bishop Conrad Senior Secondary School, Bareilly (CBSE Board)
+
+**Intermideiate (2015):** *passed with 88.4% percentage of marks* from Senior Secondary School (Boys), AMU, Aligarh
