@@ -29,8 +29,11 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 linkedin_username: umair-h-204191b4
 github_username:  umairhussaincmm
 
+# Adding new fields
 # Defaulting the author name
 author: Umair Hussain
+
+title-logo: /images/me.jpg
 
 # Build settings
 theme: minima
