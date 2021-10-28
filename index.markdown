@@ -7,3 +7,6 @@ layout: home
 Welcome to Umair Hussain's peronal page!
 
 ![Umair Hussain](/images/title-logo1.jpg)
+
+## Educational Background
+**High School (2013):** *passed with 10 CGPA* from Bishop Conrad Senior Secondary School, Bareilly (CBSE Board)
