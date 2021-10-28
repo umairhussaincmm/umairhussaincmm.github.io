@@ -13,3 +13,7 @@ Indian Institute of Technology Madras, Chennai (600036)
 
 ### Other Personal Info
 **Sports Interest:** Table Tennis, Cricket, Badminton.
+
+
+
+Go back to [home](https://umairhussaincmm.github.io/)
