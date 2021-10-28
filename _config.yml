@@ -36,7 +36,8 @@ author: Umair Hussain
 title-logo: /images/me.jpg
 
 # Build settings
-theme: minima
+# Removed minima theme as it is now a regular theme (not gem based theme)
+# theme: minima
 plugins:
   - jekyll-feed
 
