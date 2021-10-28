@@ -21,7 +21,7 @@
 title: Umair Hussain
 email: husain.umair2010@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This webpage holds the basic personal information of Umair Hussain, PhD scholar under the [PMRF](https://may2021.pmrf.in/) scheme.
+  This webpage holds the basic personal information of Umair Hussain, PhD scholar under the "[PMRF](https://may2021.pmrf.in/)" scheme.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 linkedin_username: umair-h-204191b4
