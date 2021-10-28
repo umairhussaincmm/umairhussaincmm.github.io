@@ -5,3 +5,5 @@
 layout: home
 ---
 Welcome to Umair Hussain's peronal page!
+
+![Umair Hussain](/images/title-logo1.jpg)
