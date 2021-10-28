@@ -9,6 +9,8 @@ Welcome to Umair Hussain's peronal page!
 ![Umair Hussain](/images/title-logo1.jpg)
 
 ## Educational Background
-**High School (2013):** *passed with 10 CGPA* from Bishop Conrad Senior Secondary School, Bareilly (CBSE Board)
+**Bachelor of Technology in Mechanical Engineering (2015):** *passed with 9.66 CPI* from Jamia Millia Islamia, New Delhi
 
 **Intermideiate (2015):** *passed with 88.4% percentage of marks* from Senior Secondary School (Boys), AMU, Aligarh
+
+**High School (2013):** *passed with 10 CGPA* from Bishop Conrad Senior Secondary School, Bareilly (CBSE Board)
