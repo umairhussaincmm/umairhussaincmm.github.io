@@ -33,7 +33,7 @@ github_username:  umairhussaincmm
 # Defaulting the author name
 author: Umair Hussain
 
-title-logo: /images/me.jpg
+title-logo: /images/title-logo.jpg
 
 # Build settings
 # Removed minima theme as it is now a regular theme (not gem based theme)
