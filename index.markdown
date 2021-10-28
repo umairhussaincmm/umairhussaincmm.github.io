@@ -15,7 +15,7 @@ Welcome to Umair Hussain's peronal page!
 
 **Intermediate (2015):** *passed with 88.4% of marks* from [Senior Secondary School (Boys), AMU, Aligarh](https://www.amu.ac.in/schools/saiyyid-hamid-senior-secondary-school-boys/home-page)
 
-**High School (2013):** *passed with 10 CGPA* from Bishop Conrad Senior Secondary School, Bareilly (CBSE Board)
+**High School (2013):** *passed with 10 CGPA* from [Bishop Conrad Senior Secondary School, Bareilly (CBSE Board)](https://bcsbareilly.com/)
 
 ## Skills
 - Finite Element Method
