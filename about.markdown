@@ -8,5 +8,8 @@ permalink: /about/
 
 **Personal e-mail:** husain.umair2010@gmail.com
 
-##### Machine Design Section, Department of Mechanical Engineering,
+Machine Design Section, Department of Mechanical Engineering,
 Indian Institute of Technology Madras, Chennai (600036)
+
+### Other Personal Info
+**Sports Interest:** Table Tennis, Cricket, Badminton.
