@@ -9,7 +9,7 @@ Welcome to Umair Hussain's peronal page!
 ![Umair Hussain](/images/title-logo1.jpg)
 
 ## Educational Background
-** Direct PhD (Started in 2019):** at Indian Institute of Technology Madras, Chennai
+**Direct PhD (Started in 2019):** at Indian Institute of Technology Madras, Chennai
 
 **Bachelor of Technology in Mechanical Engineering (2015):** *passed with 9.66 CPI* from Jamia Millia Islamia, New Delhi
 
