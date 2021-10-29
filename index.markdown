@@ -19,7 +19,7 @@ Welcome to Umair Hussain's peronal page!
 
 ## Skills
 - Finite Element Method
-- Phase Field Method
+- Phase Field Modelling
 - Programming Languages
   - C++
   - Python
