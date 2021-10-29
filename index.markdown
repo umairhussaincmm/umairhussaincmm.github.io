@@ -6,7 +6,7 @@ layout: home
 ---
 Welcome to Umair Hussain's peronal page!
 
-![Umair Hussain](/images/title-logo1.jpg)
+![Umair Hussain](/images/dp.jpg)
 
 ## Educational Background
 **Direct PhD (Started in 2019):** at [Indian Institute of Technology Madras, Chennai](https://mech.iitm.ac.in/meiitm/)
