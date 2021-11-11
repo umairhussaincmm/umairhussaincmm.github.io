@@ -46,9 +46,13 @@ the system.
 
 The Phase-field modelling has been using different numerical methods like, Finite Differences (FE), Finite Volume (FV) or Fourier spectral methods. But with
 the role of stresses and deformations in the microstructure evolution now being highlighted more, FEM seems to be a better choice for solving the PF equations
-The Finite Element Method has been popular in deeling with mechanics related problems more conveniently than other numerical methods. 
+The Finite Element Method has been popular in deeling with mechanics related problems more conveniently than other numerical methods. In our work, we are 
+using exisitng FEM libraries, known as [Deal II](https://www.dealii.org/)
 
-**Applications for the Framework**
+**Sample Problems to Benchmark my Deal II codes**
 
+1. [Unsteady Heat Equation (Parabolic Equation)](https://umairhussaincmm.github.io/heat-equation/)
 
-[Dendritic Crystal Growth Problem](https://umairhussaincmm.github.io/kobayashi/)
+2. [Dendritic Crystal Growth Problem](https://umairhussaincmm.github.io/kobayashi/)
+
+3. Two-phase Lithiation
