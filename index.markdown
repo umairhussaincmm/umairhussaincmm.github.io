@@ -34,13 +34,18 @@ Welcome to Umair Hussain's peronal page!
 We are working on a generalised software framework to model the multiphase microstructure evolution using Multiphase field method implemented using 
 Finite Element method. The framework would provide a modular interface to the user so that they can choose various parameters and number of phases according 
 to their need.
+
 **What is the Phase-field modelling?**
+
 The Phase-field modelling has been the backbone of the computational material science. It is a thermodynamically robust modelling technique used to study 
 the microstructure evolution. It uses a phase field variable, which takes up a definite value for each phase and varies smoothly over the interface, hence 
 eliminating the need to track the interface explicitly. The value of the phase variable is determined by the minimisation of the total Gibbs free energy of 
 the system.
+
 **FEM Implementation of Phase-field Models**
-The Finite Element Method has been popular in deeling with mechanics related problems.
+
+The Finite Element Method has been popular in deeling with mechanics related problems more accurately than other numerical methods.
+
 **Applications for the Framework**
 
 
