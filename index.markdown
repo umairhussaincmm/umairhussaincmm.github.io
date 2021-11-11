@@ -44,7 +44,9 @@ the system.
 
 **FEM Implementation of Phase-field Models**
 
-The Finite Element Method has been popular in deeling with mechanics related problems more accurately than other numerical methods.
+The Phase-field modelling has been using different numerical methods like, Finite Differences (FE), Finite Volume (FV) or Fourier spectral methods. But with
+the role of stresses and deformations in the microstructure evolution now being highlighted more, FEM seems to be a better choice for solving the PF equations
+The Finite Element Method has been popular in deeling with mechanics related problems more conveniently than other numerical methods. 
 
 **Applications for the Framework**
 
