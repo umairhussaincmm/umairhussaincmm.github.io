@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Crystal Growth Problem
+title: Unsteady Heat Conduction
 permalink: /heat-equation/
 ---
 The governing equation for the unsteady heat conduction is:
