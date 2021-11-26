@@ -55,4 +55,4 @@ will be built upon exisitng FEM libraries, known as [Deal II](https://www.dealii
 
 2. [Dendritic Crystal Growth Problem](https://umairhussaincmm.github.io/kobayashi/)
 
-3. [Two-phase Lithiation](https://umairhussaincmm.github.io/kobayashi/)
+3. [Two-phase Lithiation](https://umairhussaincmm.github.io/2phaselith/)
