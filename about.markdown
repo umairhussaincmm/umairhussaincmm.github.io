@@ -8,7 +8,7 @@ permalink: /about/
 
 **Personal e-mail:** husain.umair2010@gmail.com
 
-Machine Design Section, Department of Mechanical Engineering,
+Computational Materials and Mechanics Group, Department of Mechanical Engineering (Machine Design Section),
 Indian Institute of Technology Madras, Chennai (600036)
 
 ### Working Under Supervision Of
