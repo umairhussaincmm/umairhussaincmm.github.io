@@ -59,4 +59,4 @@ will be built upon exisitng FEM libraries, known as [Deal II](https://www.dealii
 
 **Problems Validated Using The Generalised Multi-Phase Field Deal II Code**
 
-1. [Peritectic Reaction Problem](https://umairhussaincmm.github.io/)
+1. [Peritectic Reaction Problem](https://umairhussaincmm.github.io/peritectic/)
