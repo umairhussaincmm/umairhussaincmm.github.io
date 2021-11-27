@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Gamma Phase Growth in Peritectic Reaction
+title: <a href="https://www.codecogs.com/eqnedit.php?latex=\gamma" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\gamma" title="\gamma" /></a> Growth in Peritectic Reaction
 permalink: /peritectic/
 ---
 A peritectic reaction is of the following form:
