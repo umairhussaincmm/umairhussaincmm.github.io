@@ -15,5 +15,6 @@ where,
 
 <a href="https://www.codecogs.com/eqnedit.php?latex=\mu&space;=&space;c_{max}RT(ln(\frac{\hat{c}}{1-\hat{c}})&space;&plus;&space;\Omega(1-2\hat{c}))&space;-&space;\kappa&space;\nabla^2&space;\hat{c}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\mu&space;=&space;c_{max}RT(ln(\frac{\hat{c}}{1-\hat{c}})&space;&plus;&space;\Omega(1-2\hat{c}))&space;-&space;\kappa&space;\nabla^2&space;\hat{c}" title="\mu = c_{max}RT(ln(\frac{\hat{c}}{1-\hat{c}}) + \Omega(1-2\hat{c})) - \kappa \nabla^2 \hat{c}" /></a>
  
+The results are summarised in the following figure and they match closely with the figure 3 of [L. Chen](https://iopscience.iop.org/article/10.1149/2.0171411jes)'s paper.
 
 ![Two Phase Lithiaton Model](/images/2phase_all.jpg)
