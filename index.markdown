@@ -29,6 +29,8 @@ Welcome to Umair Hussain's peronal page!
   - Paraview
   - SageMath
   - LaTex
+- Linux
+- Git
 
 ## Research Work
 We are working on a generalised software framework to model the multiphase microstructure evolution using Multiphase field method implemented using 
