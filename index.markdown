@@ -8,6 +8,9 @@ Welcome to Umair Hussain's peronal page!
 
 ![Umair Hussain](/images/dp.jpg)
 
+## About
+I am a PhD scholar at IIT Madras, working in the area of computational mechanics & materials modeling. My area of expertise includes phase field modeling, finite element method, computational plasticity and electrochemical modeling. I am also proficient in an open-source FEM library, deal.II.
+
 ## Educational Background
 **Direct PhD (Started in 2019):** at [Indian Institute of Technology Madras, Chennai](https://mech.iitm.ac.in/meiitm/)
 
@@ -17,6 +20,11 @@ Welcome to Umair Hussain's peronal page!
 
 **High School (2013):** *passed with 10 CGPA* from [Bishop Conrad Senior Secondary School, Bareilly (CBSE Board)](https://bcsbareilly.com/)
 
+## Research Work
+In my research, I developed a comprehensive multiphysics model using phase field modeling to explore the electrochemical response during lithiation processes. This model enabled an in-depth analysis of how phase separation impacts the electrochemical behavior during battery charging and discharging cycles. To address battery degradation, I investigated the effects of mechanical deformation, focusing on both elastic and elasto-plastic deformations, and their influence on electrochemical responses. Through this work, I demonstrated how voltammograms could be interpreted to uncover underlying physical phenomena within the battery system.
+
+Further advancing the model, I developed a multiphase field solver capable of incorporating more than two phases into the lithiation model, providing a more accurate representation of the material behavior. All solvers were implemented using the C++-based open-source library, deal.II. To enhance computational efficiency, I parallelized the code using MPI and PETSc.
+
 ## Skills
 - Finite Element Method
 - Phase Field Modelling
@@ -24,6 +32,7 @@ Welcome to Umair Hussain's peronal page!
   - C++
   - Python
   - Matlab
+  - Latex
 - Softwares
   - Deal II
   - Paraview
@@ -32,16 +41,11 @@ Welcome to Umair Hussain's peronal page!
 - Linux
 - Git
 
-## Research Work
-We are working on a generalised software framework to model the multiphase microstructure evolution using Multiphase field method implemented using 
-Finite Element method. The framework would provide a modular interface to the user so that they can choose various parameters and number of phases according 
-to their need.
-
-**What Is The Phase-field modelling?**
+**What is Phase-field modelling?**
 
 The Phase-field modelling has been the backbone of the computational material science. It is a thermodynamically robust modelling technique used to study 
-the microstructure evolution. It uses a phase field variable, which takes up a definite value for each phase and varies smoothly over the interface, hence 
-eliminating the need to track the interface explicitly. The value of the phase variable is determined by the minimisation of the total Gibbs free energy of 
+the microstructure evolution. It uses a phase field variable or an order parameter, which takes up a definite value for each phase and varies smoothly over the interface, hence 
+eliminating the need to track the interface explicitly. The value of the order parameter is determined by the minimisation of the total Gibbs free energy of 
 the system.
 
 **FEM Implementation Of Phase-field Models**
