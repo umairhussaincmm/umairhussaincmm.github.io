@@ -4,7 +4,7 @@
 
 layout: home
 ---
-Welcome to Umair Hussain's peronal page!
+Welcome to Umair Hussain's personal page!
 
 ![Umair Hussain](/images/dp.jpg)
 
@@ -12,7 +12,7 @@ Welcome to Umair Hussain's peronal page!
 I am a PhD scholar at IIT Madras, working in the area of computational mechanics & materials modeling. My area of expertise includes phase field modeling, finite element method, computational plasticity and electrochemical modeling. I am also proficient in an open-source FEM library, deal.II.
 
 ## Educational Background
-**Direct PhD (Started in 2019):** at [Indian Institute of Technology Madras, Chennai](https://mech.iitm.ac.in/meiitm/)
+**Direct Ph.D. (M.S.+Ph.D.) (Started in 2019):** at [Indian Institute of Technology Madras, Chennai](https://mech.iitm.ac.in/meiitm/)
 
 **Bachelor of Technology in Mechanical Engineering (2019):** *passed with 9.66 CPI* from [Jamia Millia Islamia, New Delhi](https://www.jmi.ac.in/mechanical)
 
@@ -23,11 +23,15 @@ I am a PhD scholar at IIT Madras, working in the area of computational mechanics
 ## Research Work
 In my research, I developed a comprehensive multiphysics model using phase field modeling to explore the electrochemical response during lithiation processes. This model enabled an in-depth analysis of how phase separation impacts the electrochemical behavior during battery charging and discharging cycles. To address battery degradation, I investigated the effects of mechanical deformation, focusing on both elastic and elasto-plastic deformations, and their influence on electrochemical responses. Through this work, I demonstrated how voltammograms could be interpreted to uncover underlying physical phenomena within the battery system.
 
-Further advancing the model, I developed a multiphase field solver capable of incorporating more than two phases into the lithiation model, providing a more accurate representation of the material behavior. All solvers were implemented using the C++-based open-source library, deal.II. To enhance computational efficiency, I parallelized the code using MPI and PETSc.
+Further advancing the model, I developed a multiphase field solver capable of incorporating more than two phases into the lithiation model, providing a more accurate representation of the material behavior. All solvers were implemented using the C++-based open-source library, [deal.II](https://www.dealii.org/). To enhance computational efficiency, I parallelized the code using MPI and PETSc.
 
 ## Skills
 - Finite Element Method
 - Phase Field Modelling
+- Microstrucutre Modeling
+- Electrochemical Modeling
+- Computational Plasticity
+- Parallel Computing
 - Programming Languages
   - C++
   - Python
