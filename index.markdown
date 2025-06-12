@@ -6,7 +6,7 @@ layout: home
 ---
 Welcome to Umair Hussain's personal page!
 
-![Umair Hussain](/images/dp2.jpg)
+<img src="/images/dp2.jpg" alt="Umair Hussain" width="500"/>
 
 ## About
 I am a data scientist with a PhD in computational mechanics, applying data science methods to physics-informed problems. My work leverages a strong foundation in electrochemical modeling, physical simulations, and numerical methods to develop interpretable and efficient solutions for scientific and engineering applications. I specialize in combining data-driven approaches with physics-based modeling, particularly in the context of Li-ion battery systems. I am also proficient in the open-source FEM library [deal.II](https://www.dealii.org/), and have contributed a standalone code to the [deal.II code gallery](https://www.dealii.org/current/doxygen/deal.II/code_gallery_Crystal_Growth_Phase_Field_Model.html).
