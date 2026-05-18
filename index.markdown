@@ -71,12 +71,12 @@ description: Data Scientist & Computational Mechanics PhD — blending physics-b
         <div class="edu-item">
           <div class="edu-item__degree">M.S. + Ph.D. in Mechanical Engineering</div>
           <div class="edu-item__inst"><a href="https://mech.iitm.ac.in/meiitm/" target="_blank">IIT Madras, Chennai</a></div>
-          <div class="edu-item__year">2019 – 2025 &nbsp;·&nbsp; CGPA 9.39</div>
+          <div class="edu-item__year">2019 – 2025 &nbsp</div>
         </div>
         <div class="edu-item">
           <div class="edu-item__degree">B.Tech in Mechanical Engineering</div>
           <div class="edu-item__inst"><a href="https://www.jmi.ac.in/mechanical" target="_blank">Jamia Millia Islamia, New Delhi</a></div>
-          <div class="edu-item__year">2015 – 2019 &nbsp;·&nbsp; CGPA 9.66</div>
+          <div class="edu-item__year">2015 – 2019 &nbsp</div>
         </div>
       </div>
 
@@ -84,7 +84,7 @@ description: Data Scientist & Computational Mechanics PhD — blending physics-b
         <div class="info-card__title">Awards & Fellowships</div>
         <div class="edu-item">
           <div class="edu-item__degree">Prime Minister Research Fellowship (PMRF)</div>
-          <div class="edu-item__year">2019 – 2024 &nbsp;·&nbsp; ₹36.6L Fellowship</div>
+          <div class="edu-item__year">2019 – 2024 &nbsp</div>
         </div>
         <div class="edu-item">
           <div class="edu-item__degree">Half-time Research Assistantship (HTRA)</div>
