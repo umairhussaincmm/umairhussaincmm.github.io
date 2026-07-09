@@ -25,7 +25,7 @@
   category: Conferences
 
 - image: WCCMVancouver4.jpg
-  caption: WCCM 2024 · conference floor
+  caption: A break at White Rock Beach
   location: Vancouver, Canada
   date: Jul 2024
   category: Conferences
@@ -37,19 +37,19 @@
   category: Conferences
 
 - image: ComplasBarcelona2.jpg
-  caption: Presenting at COMPLAS 2023
+  caption: Hiking to Sant Jeroni, Montserrat
   location: Barcelona, Spain
   date: Sep 2023
   category: Conferences
 
 - image: ComplasBarcelona3.jpg
-  caption: With the research group in Barcelona
+  caption: Sagrada Família
   location: Barcelona, Spain
   date: Sep 2023
   category: Conferences
 
 - image: ComplasBarcelona4.jpg
-  caption: Barcelona · off-hours
+  caption: "Exploring Barcelona · Museu Nacional d'Art de Catalunya"
   location: Barcelona, Spain
   date: Sep 2023
   category: Conferences
@@ -60,14 +60,14 @@
   date: Dec 2022
   category: Conferences
 
-- image: ACMFMS2.jpg
-  caption: Poster / talk session at ACMFMS 2022
+- image: ACMFMS3.jpg
+  caption: Presenting at ACMFMS 2022
   location: Guwahati, India
   date: Dec 2022
   category: Conferences
 
-- image: ACMFMS3.jpg
-  caption: With attendees at ACMFMS 2022
+- image: ACMFMS2.jpg
+  caption: Presenting at ACMFMS 2022
   location: Guwahati, India
   date: Dec 2022
   category: Conferences
@@ -95,25 +95,25 @@
 # ─── Life at IIT Madras ───────────────────────────────────────
 
 - image: CampusLifeIITM1.jpg
-  caption: IITM campus
+  caption: ""
   location: Chennai, India
-  date: 2020 – 2024
+  date: 2020 – 2025
   category: Life at IIT Madras
 
 - image: CampusLifeIITM2.jpg
-  caption: Around the institute
+  caption: ""
   location: Chennai, India
-  date: 2020 – 2024
+  date: 2020 – 2025
   category: Life at IIT Madras
 
 - image: CampusLifeIITM3.jpg
-  caption: Everyday IITM
+  caption: ""
   location: Chennai, India
-  date: 2020 – 2024
+  date: 2020 – 2025
   category: Life at IIT Madras
 
 - image: CampusLifeIITM4.jpg
-  caption: Campus life
+  caption: ""
   location: Chennai, India
-  date: 2020 – 2024
+  date: 2020 – 2025
   category: Life at IIT Madras

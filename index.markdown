@@ -430,15 +430,21 @@ description: Data Scientist at ChampionX, an SLB company. Bridging physics-based
         </div>
         <div class="gallery">
           {% for p in cat_photos %}
+          {% assign alt_text = p.caption | default: p.location %}
+          {% assign lb_caption = p.caption %}
+          {% if p.caption == blank and p.location %}{% assign lb_caption = p.location %}{% endif %}
+          {% if p.date %}{% if lb_caption != blank %}{% assign lb_caption = lb_caption | append: ' · ' | append: p.date %}{% else %}{% assign lb_caption = p.date %}{% endif %}{% endif %}
           <figure class="gallery__item anim-fadein">
             <img src="{{ '/images/gallery/' | append: p.image | relative_url }}"
-                 alt="{{ p.caption }}"
+                 alt="{{ alt_text | escape }}"
                  data-lightbox
                  data-full="{{ '/images/gallery/' | append: p.image | relative_url }}"
-                 data-caption="{{ p.caption }}{% if p.location %} — {{ p.location }}{% endif %}{% if p.date %} · {{ p.date }}{% endif %}"
+                 data-caption="{{ lb_caption | escape }}"
                  loading="lazy">
             <figcaption>
+              {% if p.caption != blank %}
               <span class="gallery__caption">{{ p.caption }}</span>
+              {% endif %}
               {% if p.location or p.date %}
               <span class="gallery__meta">{{ p.location }}{% if p.location and p.date %} · {% endif %}{{ p.date }}</span>
               {% endif %}
