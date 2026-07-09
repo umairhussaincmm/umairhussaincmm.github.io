@@ -797,10 +797,16 @@ img { max-width: 100%; display: block; }
   align-items: center;
   justify-content: center;
   flex-shrink: 0;
-  transition: background var(--transition);
+  color: var(--heading);
+  transition: background var(--transition), color var(--transition);
+}
+[data-theme="dark"] .contact-link__icon {
+  background: rgba(212, 179, 88, 0.12);  /* subtle gold wash for pop */
+  color: var(--gold-light);
 }
 .contact-link:hover .contact-link__icon {
-  background: rgba(255,255,255,0.1);
+  background: rgba(255,255,255,0.14);
+  color: var(--gold-light);
 }
 
 .cv-download-card {
