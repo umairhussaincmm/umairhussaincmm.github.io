@@ -1,0 +1,46 @@
+# Career and academic journey. Newest first.
+
+- year: "2025 – Present"
+  role: Data Scientist
+  where: ChampionX, an SLB company
+  type: industry
+  detail: >-
+    Building AI, ML, and physics-based models for the oil & gas industry.
+    Working across artificial lift systems, equipment diagnostics, and
+    corrosion prediction; integrating physics-informed modeling with modern
+    ML and generative AI.
+
+- year: "2024 – 2025"
+  role: Research Analyst, Intern
+  where: ChampionX, an SLB company
+  type: industry
+  detail: >-
+    First step into industry. Contributed physics-based and ML models for
+    artificial lift systems, applying my FEM background to real-world
+    downhole equipment.
+
+- year: "2019 – 2025"
+  role: M.S. + Ph.D., Mechanical Engineering
+  where: IIT Madras
+  type: academic
+  detail: >-
+    Doctoral research on multiphysics phase field modeling for Li-ion
+    battery anodes. Built C++/deal.II solvers, published in Computational
+    Materials Science and Journal of The Electrochemical Society, and
+    contributed to the deal.II open-source code gallery.
+
+- year: "2020"
+  role: Awarded Prime Minister Research Fellowship (PMRF)
+  where: Government of India
+  type: milestone
+  detail: >-
+    Received the prestigious PMRF fellowship supporting doctoral research
+    (2020 – 2024).
+
+- year: "2015 – 2019"
+  role: B.Tech, Mechanical Engineering
+  where: Jamia Millia Islamia, New Delhi
+  type: academic
+  detail: >-
+    Undergraduate degree in Mechanical Engineering. First hands-on with
+    computational tools, FEM, and design.

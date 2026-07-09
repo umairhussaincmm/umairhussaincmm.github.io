@@ -6,15 +6,15 @@
 title: Umair Hussain
 email: husain.umair2010@gmail.com
 description: >-
-  Data Scientist and Computational Mechanics PhD — developing AI and physics-based
-  solutions for complex engineering problems.
+  Data Scientist at ChampionX, an SLB company, bridging physics-based
+  modeling with AI for the energy industry. PhD, IIT Madras.
 
 baseurl: ""
 url: "https://umairhussaincmm.github.io"
 
 linkedin_username: umair-h-204191b4
-github_username:   umairhussaincmm
-author:            Umair Hussain
+github_username: umairhussaincmm
+author: Umair Hussain
 
 # Build settings
 plugins:
@@ -31,3 +31,4 @@ exclude:
   - node_modules
   - vendor
   - README.md
+  - README-CHANGES.md

@@ -1,0 +1,21 @@
+# Photo gallery.
+# Add images to /images/gallery/, then add an entry here.
+# `image` is the filename relative to /images/gallery/.
+# `caption` and `location` show as overlay/hover text.
+# Delete this file's contents and replace with real photos when ready.
+
+# --- EXAMPLES (replace with real photos) ---
+# - image: convocation-1.jpg
+#   caption: PhD Convocation, IIT Madras
+#   location: Chennai, India
+#   date: 2025
+#
+# - image: wccm-vancouver.jpg
+#   caption: Presenting at WCCM 2024
+#   location: Vancouver, Canada
+#   date: Jul 2024
+#
+# - image: complas-barcelona.jpg
+#   caption: COMPLAS 2023 with the group
+#   location: Barcelona, Spain
+#   date: Sept 2023
