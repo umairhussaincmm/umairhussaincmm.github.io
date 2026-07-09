@@ -376,7 +376,7 @@ img { max-width: 100%; display: block; }
 .about__sidebar {}
 
 .info-card {
-  background: #fff;
+  background: var(--card-bg);
   border: 1px solid var(--border);
   border-radius: var(--radius);
   padding: 1.5rem;
@@ -514,7 +514,7 @@ img { max-width: 100%; display: block; }
 }
 
 .research-card {
-  background: #fff;
+  background: var(--card-bg);
   border: 1px solid var(--border);
   border-radius: var(--radius);
   padding: 2rem;
@@ -547,7 +547,7 @@ img { max-width: 100%; display: block; }
 }
 
 .pub-item {
-  background: #fff;
+  background: var(--card-bg);
   border: 1px solid var(--border);
   border-radius: var(--radius);
   padding: 1.5rem 1.75rem;
@@ -716,7 +716,7 @@ img { max-width: 100%; display: block; }
 }
 
 .teaching-card {
-  background: #fff;
+  background: var(--card-bg);
   border: 1px solid var(--border);
   border-radius: var(--radius);
   padding: 1.5rem;
@@ -775,7 +775,7 @@ img { max-width: 100%; display: block; }
   align-items: center;
   gap: 1rem;
   padding: 1rem 1.25rem;
-  background: #fff;
+  background: var(--card-bg);
   border: 1px solid var(--border);
   border-radius: var(--radius);
   color: var(--text-dark);
