@@ -213,12 +213,16 @@
       img.addEventListener('click', () => {
         const overlay = document.createElement('div');
         overlay.className = 'lightbox';
+        const caption = img.getAttribute('data-caption') || img.alt || '';
         overlay.innerHTML = `
           <button class="lightbox__close" aria-label="Close">&times;</button>
           <img src="${img.getAttribute('data-full') || img.src}" alt="${img.alt}">
-          <div class="lightbox__caption">${img.alt || ''}</div>
+          <div class="lightbox__caption">${caption}</div>
         `;
         overlay.addEventListener('click', () => overlay.remove());
+        document.addEventListener('keydown', function escClose(e) {
+          if (e.key === 'Escape') { overlay.remove(); document.removeEventListener('keydown', escClose); }
+        });
         document.body.appendChild(overlay);
       });
     });

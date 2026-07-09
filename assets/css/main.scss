@@ -1087,6 +1087,46 @@ img { max-width: 100%; display: block; }
 }
 
 /* --- Gallery --- */
+.gallery-groups {
+  display: flex;
+  flex-direction: column;
+  gap: 2.5rem;
+}
+.gallery-group__header {
+  display: flex;
+  align-items: baseline;
+  gap: 1rem;
+  margin-bottom: 1rem;
+  padding-bottom: 0.6rem;
+  border-bottom: 1px solid var(--border);
+}
+.gallery-group__title {
+  font-family: 'Playfair Display', serif;
+  font-size: 1.35rem;
+  font-weight: 600;
+  color: var(--navy);
+  margin: 0;
+  letter-spacing: -0.01em;
+  position: relative;
+  padding-left: 0.85rem;
+}
+.gallery-group__title::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 0.35em;
+  bottom: 0.2em;
+  width: 3px;
+  background: var(--gold);
+  border-radius: 2px;
+}
+.gallery-group__count {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.72rem;
+  color: var(--text-muted);
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
 .gallery {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));

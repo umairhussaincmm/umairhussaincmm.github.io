@@ -409,21 +409,44 @@ description: Data Scientist at ChampionX, an SLB company. Bridging physics-based
   {% assign gallery_data = site.data.gallery | default: empty %}
   {% assign photos = gallery_data | where_exp: "p", "p.image" %}
   {% if photos.size > 0 %}
-    <div class="gallery">
-      {% for p in photos %}
-      <figure class="gallery__item anim-fadein">
-        <img src="{{ '/images/gallery/' | append: p.image | relative_url }}"
-             alt="{{ p.caption }}"
-             data-lightbox
-             data-full="{{ '/images/gallery/' | append: p.image | relative_url }}"
-             loading="lazy">
-        <figcaption>
-          <span class="gallery__caption">{{ p.caption }}</span>
-          {% if p.location or p.date %}
-          <span class="gallery__meta">{{ p.location }}{% if p.location and p.date %} · {% endif %}{{ p.date }}</span>
-          {% endif %}
-        </figcaption>
-      </figure>
+    {% comment %} Preserve YAML order of first appearance for each category. {% endcomment %}
+    {% assign category_order = "" | split: "" %}
+    {% for p in photos %}
+      {% assign cat = p.category | default: "Photos" %}
+      {% unless category_order contains cat %}
+        {% assign category_order = category_order | push: cat %}
+      {% endunless %}
+    {% endfor %}
+
+    <div class="gallery-groups">
+      {% for cat in category_order %}
+      <div class="gallery-group anim-fadein">
+        <div class="gallery-group__header">
+          <h3 class="gallery-group__title">{{ cat }}</h3>
+          <span class="gallery-group__count">
+            {%- assign cat_photos = photos | where: "category", cat -%}
+            {{ cat_photos.size }} photo{% if cat_photos.size != 1 %}s{% endif %}
+          </span>
+        </div>
+        <div class="gallery">
+          {% for p in cat_photos %}
+          <figure class="gallery__item anim-fadein">
+            <img src="{{ '/images/gallery/' | append: p.image | relative_url }}"
+                 alt="{{ p.caption }}"
+                 data-lightbox
+                 data-full="{{ '/images/gallery/' | append: p.image | relative_url }}"
+                 data-caption="{{ p.caption }}{% if p.location %} — {{ p.location }}{% endif %}{% if p.date %} · {{ p.date }}{% endif %}"
+                 loading="lazy">
+            <figcaption>
+              <span class="gallery__caption">{{ p.caption }}</span>
+              {% if p.location or p.date %}
+              <span class="gallery__meta">{{ p.location }}{% if p.location and p.date %} · {% endif %}{{ p.date }}</span>
+              {% endif %}
+            </figcaption>
+          </figure>
+          {% endfor %}
+        </div>
+      </div>
       {% endfor %}
     </div>
   {% else %}

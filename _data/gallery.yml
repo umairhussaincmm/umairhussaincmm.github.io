@@ -1,21 +1,119 @@
 # Photo gallery.
-# Add images to /images/gallery/, then add an entry here.
-# `image` is the filename relative to /images/gallery/.
-# `caption` and `location` show as overlay/hover text.
-# Delete this file's contents and replace with real photos when ready.
+# Images live in /images/gallery/.
+# Each entry needs: image, caption, location, date, category.
+# `category` groups photos into sections on the site.
+# To add a new photo: drop it in /images/gallery/, then add an entry below.
 
-# --- EXAMPLES (replace with real photos) ---
-# - image: convocation-1.jpg
-#   caption: PhD Convocation, IIT Madras
-#   location: Chennai, India
-#   date: 2025
-#
-# - image: wccm-vancouver.jpg
-#   caption: Presenting at WCCM 2024
-#   location: Vancouver, Canada
-#   date: Jul 2024
-#
-# - image: complas-barcelona.jpg
-#   caption: COMPLAS 2023 with the group
-#   location: Barcelona, Spain
-#   date: Sept 2023
+# ─── Conferences ───────────────────────────────────────────────
+
+- image: WCCMVancouver1.jpg
+  caption: WCCM XVI · Vancouver Convention Centre
+  location: Vancouver, Canada
+  date: Jul 2024
+  category: Conferences
+
+- image: WCCMVancouver2.jpg
+  caption: Between sessions at WCCM 2024
+  location: Vancouver, Canada
+  date: Jul 2024
+  category: Conferences
+
+- image: WCCMVancouver3.jpg
+  caption: Exploring Vancouver on the sidelines
+  location: Vancouver, Canada
+  date: Jul 2024
+  category: Conferences
+
+- image: WCCMVancouver4.jpg
+  caption: WCCM 2024 · conference floor
+  location: Vancouver, Canada
+  date: Jul 2024
+  category: Conferences
+
+- image: ComplasBarcelona1.jpg
+  caption: COMPLAS XVII · Universitat Politècnica de Catalunya
+  location: Barcelona, Spain
+  date: Sep 2023
+  category: Conferences
+
+- image: ComplasBarcelona2.jpg
+  caption: Presenting at COMPLAS 2023
+  location: Barcelona, Spain
+  date: Sep 2023
+  category: Conferences
+
+- image: ComplasBarcelona3.jpg
+  caption: With the research group in Barcelona
+  location: Barcelona, Spain
+  date: Sep 2023
+  category: Conferences
+
+- image: ComplasBarcelona4.jpg
+  caption: Barcelona · off-hours
+  location: Barcelona, Spain
+  date: Sep 2023
+  category: Conferences
+
+- image: ACMFMS1.jpg
+  caption: 8th ACMFMS · IIT Guwahati
+  location: Guwahati, India
+  date: Dec 2022
+  category: Conferences
+
+- image: ACMFMS2.jpg
+  caption: Poster / talk session at ACMFMS 2022
+  location: Guwahati, India
+  date: Dec 2022
+  category: Conferences
+
+- image: ACMFMS3.jpg
+  caption: With attendees at ACMFMS 2022
+  location: Guwahati, India
+  date: Dec 2022
+  category: Conferences
+
+- image: ME75.jpg
+  caption: "ME@75: Research Frontiers · IISc Bangalore"
+  location: Bengaluru, India
+  date: Jun 2022
+  category: Conferences
+
+# ─── PhD Convocation ──────────────────────────────────────────
+
+- image: convocationPhD1.jpg
+  caption: PhD hooding · IIT Madras convocation
+  location: Chennai, India
+  date: 2025
+  category: PhD Convocation
+
+- image: convocationPhD2.jpg
+  caption: The end of a long road · Convocation day
+  location: Chennai, India
+  date: 2025
+  category: PhD Convocation
+
+# ─── Life at IIT Madras ───────────────────────────────────────
+
+- image: CampusLifeIITM1.jpg
+  caption: IITM campus
+  location: Chennai, India
+  date: 2020 – 2024
+  category: Life at IIT Madras
+
+- image: CampusLifeIITM2.jpg
+  caption: Around the institute
+  location: Chennai, India
+  date: 2020 – 2024
+  category: Life at IIT Madras
+
+- image: CampusLifeIITM3.jpg
+  caption: Everyday IITM
+  location: Chennai, India
+  date: 2020 – 2024
+  category: Life at IIT Madras
+
+- image: CampusLifeIITM4.jpg
+  caption: Campus life
+  location: Chennai, India
+  date: 2020 – 2024
+  category: Life at IIT Madras
