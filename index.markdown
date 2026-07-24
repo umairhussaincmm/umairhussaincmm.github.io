@@ -467,12 +467,12 @@ description: Data Scientist at ChampionX, an SLB company. Bridging physics-based
 </section>
 
 <!-- ═══════════════════════════════════════════
-     TEACHING
+     EDUCATION & OUTREACH
 ══════════════════════════════════════════════ -->
 <section class="section section--alt" id="teaching">
   <div class="section__header anim-fadein">
-    <span class="section__label">Education &amp; Outreach</span>
-    <h2 class="section__title">Teaching Experience</h2>
+    <span class="section__label">Teaching, Mentorship &amp; Leadership</span>
+    <h2 class="section__title">Education &amp; Outreach</h2>
     <div class="section__divider"></div>
   </div>
 
@@ -487,6 +487,18 @@ description: Data Scientist at ChampionX, an SLB company. Bridging physics-based
       <div class="teaching-card__period">Feb 2022 – May 2022</div>
       <div class="teaching-card__role">Instructor — Short Course on Computational Tools</div>
       <div class="teaching-card__inst">PSG Institute of Technology and Applied Research</div>
+    </div>
+
+    <div class="teaching-card anim-fadein anim-delay-2">
+      <div class="teaching-card__period">Intern Mentorship</div>
+      <div class="teaching-card__role">Mentored ChampionX interns on their technical projects, providing regular guidance and feedback on their work.</div>
+      <div class="teaching-card__inst">ChampionX, an SLB company</div>
+    </div>
+
+    <div class="teaching-card anim-fadein anim-delay-3">
+      <div class="teaching-card__period">Vice President Education</div>
+      <div class="teaching-card__role">Served on the club's executive committee, coordinating the educational program, speech scheduling, and member mentoring.</div>
+      <div class="teaching-card__inst">ChampionX Chennai Toastmasters Club · Toastmasters International</div>
     </div>
   </div>
 </section>
